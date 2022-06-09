@@ -1,0 +1,9 @@
+{
+	"name": "ingesttestudemy",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "821e8f69-ebbb-4777-92fe-2b667beb0da3",
+		"tenantId": "7857b30a-690e-4748-9578-9f2e066c1292"
+	}
+}
